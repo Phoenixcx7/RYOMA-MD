@@ -99,5 +99,5 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF RYOMA-MD 
-- [Lord Malvin ](https://github.com/Phoenixcx7)
+- [PHŒNIX ](https://github.com/Phoenixcx7)
 - Creater and Owner Of RYOMA-MD
